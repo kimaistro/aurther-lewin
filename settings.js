@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.owner = ['13435201454']
+global.premium = ['13435201454']
+global.ownernomer = '13435201454'
+global.ownername = 'آرثر'
+global.botname = 'آرثر بوت'
+global.footer = 'الملك آرثر'
+global.ig = 'https://www.instagram.com/ki.m._.o/'
+global.region = 'yemen'
+global.sc = 'https://chat.whatsapp.com/DhOvfP8fwth04PakEoiExG'
+global.myweb = 'https://www.instagram.com/ki.m._.o/'
+global.packname = 'AURTHER'
+global.author = '[ آرثر ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
